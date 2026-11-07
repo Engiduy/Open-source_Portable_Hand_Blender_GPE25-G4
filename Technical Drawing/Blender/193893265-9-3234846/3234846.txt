@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15012025-002593";"";
+"REFERENCE";"110045";"";
+"rs_stock_number";"3234846";"";
+"TraceParts.PartTitle";"DC brushed Motor,12300rpm,12V,2W,16mm";"";
+"url";"https://uk.rs-online.com/web/p/dc-motors/3234846//?cm_mmc=aff-_-uk-_-traceparts-_-3234846";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Maxon";"";
+"DESIGN";"DC brushed Motor,12300rpm,12V,2W,16mm";"";
+"TraceParts.InstanceId";"90-15012025-0025932N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.9";"";
