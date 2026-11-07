@@ -111,9 +111,13 @@ The project documentation describes the design as developed and tested by the te
 
 ## 8\. License and Reuse
 
-The team intends to publish the project as an open-source learning resource. The final licensing terms will be defined in the repository's **LICENSE** file.
+## License
 
-**Before reusing or redistributing any files, check the published license.** The licensing of hardware design files, written documentation, code (if any), and third-party assets may require separate treatment. No license grant should be assumed until the applicable terms are published.
+This hardware project is licensed under the
+CERN Open Hardware Licence Version 2 –
+Strongly Reciprocal (CERN-OHL-S-2.0).
+
+See the [LICENSE](LICENSE) file for details.
 
 ## 9\. Project Contact
 
